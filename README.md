@@ -1,4 +1,3 @@
-[![MasterHead](https://ibb.co/1Tqzzvm)
 <h1 align="center">Hi 👋, I'm MarshyO_o</h1>
 <h3 align="center">A talented digital engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshy012&label=Profile%20views&color=0e75b6&style=flat" alt="marshy012" /> </p>
