@@ -1,4 +1,4 @@
-[![MasterHead](https://michaelwashburnjr.com/hubfs/Imported_Blog_Media/python.jpg)
+[![MasterHead](https://ibb.co/1Tqzzvm)
 <h1 align="center">Hi 👋, I'm MarshyO_o</h1>
 <h3 align="center">A talented digital engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshy012&label=Profile%20views&color=0e75b6&style=flat" alt="marshy012" /> </p>
@@ -35,4 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshy012&show_icons=true&locale=en&layout=compact" alt="marshy012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshy012&show_icons=true&locale=en" alt="marshy012" /></p>
-(img align="right" alt="Coding" width="400" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/header.gif")
