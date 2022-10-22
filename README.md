@@ -1,11 +1,10 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/python-programming-colorful-plexus-design-python-language-programming-banner-colorful-plexus-design-software-technology-166200238.jpg)
+[![MasterHead](https://michaelwashburnjr.com/hubfs/Imported_Blog_Media/python.jpg)
 <h1 align="center">Hi 👋, I'm MarshyO_o</h1>
 <h3 align="center">A talented digital engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshy012&label=Profile%20views&color=0e75b6&style=flat" alt="marshy012" /> </p>
-
+<p align="left"> <a href="https://twitter.com/marshyo_o" target="blank"><img src="https://img.shields.io/twitter/follow/marshyo_o?logo=twitter&style=for-the-badge" alt="marshyo_o" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marshy012" alt="marshy012" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/marshyo_o" target="blank"><img src="https://img.shields.io/twitter/follow/marshyo_o?logo=twitter&style=for-the-badge" alt="marshyo_o" /></a> </p>
 
 (img align="right" alt="Coding" width="400" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/header.gif")
 
