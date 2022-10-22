@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marshy012" alt="marshy012" /></a> </p>
 
 
-(img align="right" alt="Coding" width="400" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/header.gif")
 
 - 🔭 I’m currently working on **Java programing**
 
@@ -36,4 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshy012&show_icons=true&locale=en&layout=compact" alt="marshy012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshy012&show_icons=true&locale=en" alt="marshy012" /></p>
-
+(img align="right" alt="Coding" width="400" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/header.gif")
