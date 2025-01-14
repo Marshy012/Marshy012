@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **Discord: Marshy#0350 Gmail: Marshygameing01@gmail.com**
+- 📫 How to reach me **Discord: .tatortodd Gmail: Marshygameing01@gmail.com**
 
 - ⚡ Fun fact **I'm pretty Great at making people laugh**
 
